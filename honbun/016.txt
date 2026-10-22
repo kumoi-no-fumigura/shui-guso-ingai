@@ -1,0 +1,50 @@
+zkt-shuigusou-ingai-0752		秋風滿野		一宮城野は木の下露も干果で拂ひもやまぬ四方の秋風	
+zkt-shuigusou-ingai-0753		輸下聞蟲		coみだれ落つる萩の雛の下露に泪いろある松蟲のこゑ	
+zkt-shuigusou-ingai-0754		紅葉寫水		一山河の時雨て晴るゝ紅葉に折られぬ水も色增りつヽ	
+zkt-shuigusou-ingai-0755		山中紅葉		三山廻る時雨の奥の紅葉ばの幾千入とか焦れ出づらむ	
+zkt-shuigusou-ingai-0756		露底橫花		秋風の裏葉にためぬ白露のしぼらでひたす朝顏の花	
+zkt-shuigusou-ingai-0757		川邊菊花		〓大井河ゐせぎの波の花の色を移ろひ捨つる岸の白菊	
+zkt-shuigusou-ingai-0758		獨惜幕秋		また人の訪ぬも嬉し草木だに馴ては惜き秋の名殘を	
+zkt-shuigusou-ingai-0759		冬十首初冬時雨		た今日そへにき社時雨の音れて神無月とは人に知られめ	
+zkt-shuigusou-ingai-0760		霜埋落葉		に朝霜の岡の紅葉はおもひ知れおのが下なる苔の心を	
+zkt-shuigusou-ingai-0761		屋上聞被		ニ其本のやに霰の音もとだえつゝ風の行方に靡く叢雲	
+zkt-shuigusou-ingai-0762		古寺初雪		だむかしへや何山姫の布さらす跡ふりまがへ積る初雪	
+zkt-shuigusou-ingai-0763		庭掌厭人		0我が宿は今日こむ人に忘られぬ雪の心に庭を任せて	
+zkt-shuigusou-ingai-0764		海邊松雪		一住吉の松や孰こと降る雪に詠めも知らぬとほつ卅人	
+zkt-shuigusou-ingai-0765		水〓寒蘆		三置の葉も下折はてゝ三島江の入江の月に影も障らず	
+zkt-shuigusou-ingai-0766		湖上千鳥		三ののや月まつ浦の小夜衝孰れの島をさして鳴らむ	
+zkt-shuigusou-ingai-0767		寒夜水鳥		〓おき〓めず松を嵐の拂ふ夜は明の靑ばの露ぞ重なる	
+zkt-shuigusou-ingai-0768		歲暮湖氷		1今今くく打打出づる波の初花も谷の氷の下に待つらむ	
+zkt-shuigusou-ingai-0769		戀二十首初尋綠戀		た思餘り其里人に言とはむ同じ岡べのまつは知るやと	
+zkt-shuigusou-ingai-0770				七秋の霜に移ふ花の名計もかけずよ蟲の鳴音ならねば	
+zkt-shuigusou-ingai-0771				〓ももににてて見見しの色こき野邊の草葉也とも	
+zkt-shuigusou-ingai-0772				〓行き歸り逢瀨も知らぬ御禊川悲しき事は數增りつゝ	
+zkt-shuigusou-ingai-0773				立田山木の葉の下の假枕かはすも仇に露こぼれつゝ	
+zkt-shuigusou-ingai-0774		兼厭曉戀		「今夜だにくらぶの山の宿もがな曉知らぬ夢や覺ぬと	
+zkt-shuigusou-ingai-0775		歸無書戀		「朝露は笹分くる袖もほしかねて夢か現か訪人もなし	
+zkt-shuigusou-ingai-0776		遇不合戀		よそ人は何なか〓〓の夢ならで間の現の見えぬ而影	
+zkt-shuigusou-ingai-0777		契經年戀		秋かけて降敷く木の葉幾返り空しき春の色にもゆ覽	
+zkt-shuigusou-ingai-0778		疑眞僞戀		誰誰誠誠誠の僞のいかならむ賴まれぬべき筆の跡かな	
+zkt-shuigusou-ingai-0779		返事增戀		加たちゆく煙くらべに燃えまさる思の薪身は焦れつゝ	
+zkt-shuigusou-ingai-0780		被厭賤戀		色に出でゝ云な桑りそ櫻戶の明け乍らなる春の袂を	
+zkt-shuigusou-ingai-0781		途中契戀		1道のべの井手の下帶ひき結び忘れいづらし初草の露	
+zkt-shuigusou-ingai-0782		從門歸戀		思ひやれ非の門のさしながらきて歸るさの露の衣手	
+zkt-shuigusou-ingai-0783		忘住所戀		〓いかにせむ賴めし里を住江の岸に生ふてふ草に紛へて	
+zkt-shuigusou-ingai-0784		依戀祈身		エ長かれよあらば逢世と手向して年のを祈る森の注經	
+zkt-shuigusou-ingai-0785		隔遠路戀		ニ渡つみのいく浦々にみつしほの見らく少き中の通路	
+zkt-shuigusou-ingai-0786		借人名戀		三一個初の誰がなのりそに靡く覽我身の方は絕えぬ煙を	
+zkt-shuigusou-ingai-0787		絕不知戀		葵草人の翳しかと計りも名をだに懸てとふ方もなし	
+zkt-shuigusou-ingai-0788		互恨絶戀		藻汐草〓のすさびもかき絕えぬ里の知べの心比べに	
+zkt-shuigusou-ingai-0789		雜二十首曉更寢覺		な明けやらぬ鳥のね深く置霜に寢覺苦しきよゝの古言	
+zkt-shuigusou-ingai-0790				な植ねおきし我が物からの庭の松夕は風の聲ぞ侮しき	
+zkt-shuigusou-ingai-0791		雨中綠竹		一色色へへ靑〓の竹の憂き節に身を知る雨の哀れ世中	
+zkt-shuigusou-ingai-0792		浪洗石苔		〓早瀬川いはうつ波の白妙に苦の袂もいろぞつれなき	
+zkt-shuigusou-ingai-0793		高山待月		〓比良の山みねの木枯拂ふよは心〓くも月を待つかな	
+zkt-shuigusou-ingai-0794		山中瀧水		一雲深きあたりの山に包まれて音のみ落つる瀧の白玉	
+zkt-shuigusou-ingai-0795		河水流〓		〓秋の水〓瀧川の夕日かげ木葉もうかず發るばかりは	
+zkt-shuigusou-ingai-0796		春秋野遊		問じ野の霞も霧も分けなれぬ初音の小松まつ蟲の聲	
+zkt-shuigusou-ingai-0797		關路行客		行く人の形見も仇に置く露を吹きな拂ひそ關の秋風	
+zkt-shuigusou-ingai-0798		山家夕嵐		14暮れかゝる四方の草木の山風に己れ萎るゝ柴の袖垣	
+zkt-shuigusou-ingai-0799		山家人稀		故〓をしのぶる人や渡しけむさてもとはれぬ谷の梯	
+zkt-shuigusou-ingai-0800		海路眺望		い知るらめやたゆたふ舟の波間より見ゆるこ島の元の心を	
+zkt-shuigusou-ingai-0801		月霧中友		〓夕月夜宿かりそめし影ながら幾有明の友となるらむ	

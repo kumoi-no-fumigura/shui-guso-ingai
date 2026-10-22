@@ -1,0 +1,50 @@
+zkt-shuigusou-ingai-0501				ね著葉より引人なくて萎れにし身に似ぬ池の萬蒲草哉	
+zkt-shuigusou-ingai-0502				五秋の夜の月に心やうかびけむ昔の人のふかき池みづ	
+zkt-shuigusou-ingai-0503				人をを鴨鴨色色移るふ池水にそれとも見えぬ産の養葉	
+zkt-shuigusou-ingai-0504		河		〓春といへば空ゆく風に立つ波の花に埋める白河の水	
+zkt-shuigusou-ingai-0505				00大井河夏のみむすぶ苦やかた短夜ならぬ月も宿らじ	
+zkt-shuigusou-ingai-0506				〓秋風に夜渡る月のすみだ川ながめむ空は都なりとも	
+zkt-shuigusou-ingai-0507				二行く人の黒兼たる道のべをいたくな吹きそ冬の河風	
+zkt-shuigusou-ingai-0508		田		櫻色の移るも知らぬ山賤も田面の花は袖に散りつゝ	
+zkt-shuigusou-ingai-0509				小山田に茂る五月の浮草は我が心より種や蒔きけむ	
+zkt-shuigusou-ingai-0510				秋の田を照す稻妻よそへても見れば程なし忘形見に	
+zkt-shuigusou-ingai-0511				なあぜ傳ひもりくる水も凍りゐて刈田寂しき冬の山陰	
+zkt-shuigusou-ingai-0512		鳥		百千鳥囀る春もふりはてヽ我宿ならぬ花をやは見る	
+zkt-shuigusou-ingai-0513				〓〓ををににつつ事もなし時鳥われ世中にとのみ憂へて	
+zkt-shuigusou-ingai-0514				初雁もまだ有明とつたふとも誰かは月の情かくべき	
+zkt-shuigusou-ingai-0515				〓〓千鳥とまらば雪の跡もなし鳴てもいはむ方は渚に	
+zkt-shuigusou-ingai-0516		松		〓ののおおのが千年に春やなき深き綠の知らぬ一しほ	
+zkt-shuigusou-ingai-0517				三夏山の松の煙に出る雲の五月雨乍ら晴るゝ間もなし	
+zkt-shuigusou-ingai-0518				秋の色に峰の嵐の變るより夢路ゆるさぬ松の聲かな	
+zkt-shuigusou-ingai-0519				殘りなく我が黑髪は埋れぬ霜の後にも松は見えけり	
+zkt-shuigusou-ingai-0520		杜		此〓みどり木のめ春風ふきみだりうすき霞の衣手の森	
+zkt-shuigusou-ingai-0521				メニ言とはむ聲も惜まぬ時鳥なにか浮田の森の夜ごとに	
+zkt-shuigusou-ingai-0522				ヒ〓〓〓〓〓〓て下葉殘さず置露にあはでの森の秋や侮しき	
+zkt-shuigusou-ingai-0523				べん鳴く鹿もよその紅葉も尋ねこず常磐の森の雪の夕暮	
+zkt-shuigusou-ingai-0524		草		〓〓春日野の雪の下草おのれのみ春の外にや結び置らむ	
+zkt-shuigusou-ingai-0525				%も分す岩垣沼に引捨てヽ五月待べき草葉ならねば	
+zkt-shuigusou-ingai-0526				一時知らぬ宿ともさらばなりはてず何夕暮の〓の上風	
+zkt-shuigusou-ingai-0527				我が宿は人めも草も草花をかれてもたてる心長さよ	
+zkt-shuigusou-ingai-0528		花		弘花は春春は櫻の故なれば此世の色のたぐひやはある	
+zkt-shuigusou-ingai-0529				〓〓〓の花橘の白妙に昔の袖は今匂ひつゝイ本にこつうてありて	
+zkt-shuigusou-ingai-0530				大方に厭ひなれたる夏の日の暮るゝも惜き瞿麥の花	
+zkt-shuigusou-ingai-0531				か白露を本荒の萩にぬき留て風絕ぬ間の月をこそ待て	
+zkt-shuigusou-ingai-0532				ひ冬ごもり年の內には咲き乍ら垣根の外に匂ふ梅が枝	
+zkt-shuigusou-ingai-0533		祝		〓君が代に萬代めぐれ少女子が連なる庭の十六夜の月	
+zkt-shuigusou-ingai-0534				諸人の千年のぶてふ御禊川ながすあさぢの末も遙に	
+zkt-shuigusou-ingai-0535				の長月や老いせぬ菊の下水に魂きはるよはよその白露	
+zkt-shuigusou-ingai-0536				-明らけき御代の千年を所るとて雲の上人星歌ふなり	
+zkt-shuigusou-ingai-0537		山家		ニ霞たつ峰の早蕨これ計をり知りがほの宿もはかなし	
+zkt-shuigusou-ingai-0538				弘小倉山松にかくるゝ草の庵の夕暮いそぐ夏ぞ凉しき	
+zkt-shuigusou-ingai-0539				mこりはてぬ刈田の面の稻すまししぎ立慕の薄霧の宿	
+zkt-shuigusou-ingai-0540				色に出で昔にも立てず柴の庵の時雨の後に凍る淚は	
+zkt-shuigusou-ingai-0541		旅		起て行く旅寢の庵の梅が香よ有しながらの東雲の袖	
+zkt-shuigusou-ingai-0542				旅枕白き扇の月かげも別れて侮しきかたみなりけり	
+zkt-shuigusou-ingai-0543				白露も時雨も袖をまづ染めて紅葉にやどる秋の旅人	
+zkt-shuigusou-ingai-0544				M歸るさは都も近くなりぬらし春のとなりを急ぐ旅人	
+zkt-shuigusou-ingai-0545		戀		。春の夜の夢にまざりて物ぞ思ふ仄に見えし月の現は	
+zkt-shuigusou-ingai-0546				。最せめて浮鳥の音は思遺れ猶短夜のさよは更けにき	
+zkt-shuigusou-ingai-0547				50いかにせむ下結紐の結ばゝれ解て寢ぬ夜の秋の初霜	
+zkt-shuigusou-ingai-0548				。川竹の下ゆく水の薄氷畫は消えつゝ音こそなかるれ	
+zkt-shuigusou-ingai-0549		述懷		co浜浜春の月波立つ每に身はしづみ木の下に朽ちつゝ	
+zkt-shuigusou-ingai-0550				x0我が心やよひの後の月の名に白きかきねの花盛かな	
