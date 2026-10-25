@@ -2,7 +2,7 @@ zkt-shuigusou-ingai-0201		建久二年六月月あかゝりし夜ふくる程に
 zkt-shuigusou-ingai-0202				ねろうの上の秋の望は月のほど春は千里の日暮のそら	
 zkt-shuigusou-ingai-0203				bo春きても谷の氷はまだ解ずさは思分く鳥の音もがな	
 zkt-shuigusou-ingai-0204				x0匂ひきぬまた此の宿の梅の花人あくがらす春の明幕	
-zkt-shuigusou-ingai-0205				か。ほの〓〓と霞める山の峰續き同じ雉子の聲ぞ恨むる	
+zkt-shuigusou-ingai-0205				か。ほの／″＼と霞める山の峰續き同じ雉子の聲ぞ恨むる	
 zkt-shuigusou-ingai-0206				〓へて見ばや瀧の白糸いは越えて花ちり交る春の山里	
 zkt-shuigusou-ingai-0207				一常磐なる綠の松の一しほはにほはぬ花の匂なりけり	
 zkt-shuigusou-ingai-0208				一散紛ふ花に山路は埋れぬ誰かき分けて今朝をとふ覽	
@@ -10,12 +10,12 @@ zkt-shuigusou-ingai-0209				〓りうもんの瀧にふりこし雪計雨にま�
 zkt-shuigusou-ingai-0210				〓脫更へむ明日の衣の色も惜し痛くは馴れし花の匂に	
 zkt-shuigusou-ingai-0211		夏十首		〓瑠璃の池に夏の色をばかへてけり山の緣を映す池水	
 zkt-shuigusou-ingai-0212				をを山山やまた冬籠る雪とみて卯の花わくる谷の細路	
-zkt-shuigusou-ingai-0213				一忘られの去年の古聲こひ〓〓てなほ珍しき時鳥かな	
+zkt-shuigusou-ingai-0213				一忘られの去年の古聲こひ／＼てなほ珍しき時鳥かな	
 zkt-shuigusou-ingai-0214				心ししててををてる日の影に幾世なるらむ	
 zkt-shuigusou-ingai-0215				〓寄返る波のひゞきに秋かけて夏は通はぬ磯の松かぜ	
 zkt-shuigusou-ingai-0216				°C頼むかな運の露に契おきて消えなむ後の玉の行方を	
 zkt-shuigusou-ingai-0217				一れいよりも今夜涼しき嵐かな秋まつ陰の山の井の水	
-zkt-shuigusou-ingai-0218				〓袖かるき蟬の羽衣なれ〓〓て秋の初風たち別れなば	
+zkt-shuigusou-ingai-0218				〓袖かるき蟬の羽衣なれ／＼て秋の初風たち別れなば	
 zkt-shuigusou-ingai-0219				二りりるるの日數を脈ひつゝ思へば年の半過さぬる	
 zkt-shuigusou-ingai-0220				〓疑ぬ夜のみ明し夜頃の優さも唯今日はつる六月の幕	
 zkt-shuigusou-ingai-0221		秋十首		何何ななく物ぞ悲しき秋風の宿かりそむる庭の荻はら	

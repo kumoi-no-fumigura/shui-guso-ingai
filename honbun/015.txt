@@ -38,7 +38,7 @@ zkt-shuigusou-ingai-0738		行路夕立		19夕立に袖もしをるゝかり衣�
 zkt-shuigusou-ingai-0739		要求書製作業		加秋來ぬと云ばかりなる蓬生に朝けの風の心ばかりよ	
 zkt-shuigusou-ingai-0740		測月七夕		bo天の河ふ月は名のみ重なれど雲の衣やよそに潘る覽	
 zkt-shuigusou-ingai-0741		野亭夕萩		xo秋萩に玉ぬく野べの夕露をよしや亂さで宿乍ら見む	
-zkt-shuigusou-ingai-0742		江邊曉荻		50明明渡る荻の末葉のはの〓〓と月の入江を出る舟人	
+zkt-shuigusou-ingai-0742		江邊曉荻		50明明渡る荻の末葉のはの／＼と月の入江を出る舟人	
 zkt-shuigusou-ingai-0743		山家初雁		秋風の雲に交れる嶺こえて外山の里に雁はきにけり	
 zkt-shuigusou-ingai-0744		海上待月		淡路島秋なき花をかざしもて出るも遲し十六夜の月	
 zkt-shuigusou-ingai-0745		松間夜月		=-袖近き色や綠の松風にぬるゝがほなる月ぞすくなき	

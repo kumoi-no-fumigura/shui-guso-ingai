@@ -11,7 +11,7 @@ zkt-shuigusou-ingai-0110				N移り敢ぬ時雨にだにも袖濡す深山の里
 zkt-shuigusou-ingai-0111				一櫻花心に散らぬ色ながらいく夏春をうらみきぬらむ	
 zkt-shuigusou-ingai-0112				荒にけるさはべの駒の景色かは春の淺芽のめぐむ故郷	
 zkt-shuigusou-ingai-0113				←かき列ねこし玉章の歸る雁わが物からに誰忍ぶらむ	
-zkt-shuigusou-ingai-0114				んこれまでも心々はわかれけり苗代水も己がひき〓〓	
+zkt-shuigusou-ingai-0114				んこれまでも心々はわかれけり苗代水も己がひき／＼	
 zkt-shuigusou-ingai-0115				〓頼めおきし人まつ風のさよすみて思に通ふ喚子鳥哉	
 zkt-shuigusou-ingai-0116				c桃の花ながるゝ色をしるべとて波にしたがふ春の盃	
 zkt-shuigusou-ingai-0117				一頼むかな咲ける藤波春をへて南の岸の日かげ照さば	

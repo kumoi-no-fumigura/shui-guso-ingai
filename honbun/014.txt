@@ -6,7 +6,7 @@ zkt-shuigusou-ingai-0656				一晩の夢の名殘を詠むればこれもはか�
 zkt-shuigusou-ingai-0657		駒迎		引渡す關の杉村月もれば皆かけふちの駒とこそみれ	
 zkt-shuigusou-ingai-0658		月		長しとも思果てまし秋の夜に明るもつらき月の影哉	
 zkt-shuigusou-ingai-0659		接衣		寂しさを又打添ふる衣かな音を寢覺の友と聞けども	
-zkt-shuigusou-ingai-0660		蟲		七つれ〓〓と詠むる宿の夕暮に人まつ蟲の聲も惜まず	
+zkt-shuigusou-ingai-0660		蟲		七つれ／″＼と詠むる宿の夕暮に人まつ蟲の聲も惜まず	
 zkt-shuigusou-ingai-0661		菊		白菊の心し變る花ならば色うつろはぬ秋もあらまし	
 zkt-shuigusou-ingai-0662		紅葉		〓くれて深き紅葉は山姫の染めける色の限なりけり	
 zkt-shuigusou-ingai-0663		九月畫		〓〓今日のみと思はぬ空の暮るだに秋の夕は哀ならずや	
@@ -28,7 +28,7 @@ zkt-shuigusou-ingai-0678		歲暮		1明るより暮ぬとのみぞ惜まるゝ今
 zkt-shuigusou-ingai-0679		戀十首初戀		が逢ふ迄の契ならずばいかゞせむか計人を思染めても	
 zkt-shuigusou-ingai-0680		忍懸		哀とも人に知らるゝ思だに積るは如何味氣なき世を	
 zkt-shuigusou-ingai-0681		不逢戀		Nさよ衣恨を人に重ねつヽあはでやよゝを隔果つべき	
-zkt-shuigusou-ingai-0682		初逢戀		かむすびてもなか〓〓濡るゝ袂哉阿武隈川の深き思に	
+zkt-shuigusou-ingai-0682		初逢戀		かむすびてもなか／＼濡るゝ袂哉阿武隈川の深き思に	
 zkt-shuigusou-ingai-0683		後期戀		cal染りするは山が峯の露けきも歸に道は迷はぬものを	
 zkt-shuigusou-ingai-0684		逢不遇戀		ユ逢見てもあはでも同じ歎にて誓ひし〓とは變果てぬる	
 zkt-shuigusou-ingai-0685		旅戀		〓秋萩の下葉を結ぶ草まくら色づく袖の露をまがへよ	

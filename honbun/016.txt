@@ -22,7 +22,7 @@ zkt-shuigusou-ingai-0772				〓行き歸り逢瀨も知らぬ御禊川悲しき�
 zkt-shuigusou-ingai-0773				立田山木の葉の下の假枕かはすも仇に露こぼれつゝ	
 zkt-shuigusou-ingai-0774		兼厭曉戀		「今夜だにくらぶの山の宿もがな曉知らぬ夢や覺ぬと	
 zkt-shuigusou-ingai-0775		歸無書戀		「朝露は笹分くる袖もほしかねて夢か現か訪人もなし	
-zkt-shuigusou-ingai-0776		遇不合戀		よそ人は何なか〓〓の夢ならで間の現の見えぬ而影	
+zkt-shuigusou-ingai-0776		遇不合戀		よそ人は何なか／＼の夢ならで間の現の見えぬ而影	
 zkt-shuigusou-ingai-0777		契經年戀		秋かけて降敷く木の葉幾返り空しき春の色にもゆ覽	
 zkt-shuigusou-ingai-0778		疑眞僞戀		誰誰誠誠誠の僞のいかならむ賴まれぬべき筆の跡かな	
 zkt-shuigusou-ingai-0779		返事增戀		加たちゆく煙くらべに燃えまさる思の薪身は焦れつゝ	

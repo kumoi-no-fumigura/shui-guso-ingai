@@ -9,7 +9,7 @@ zkt-shuigusou-ingai-0058				夢をだにまだ結ばずよさゝ枕ふしも定�
 zkt-shuigusou-ingai-0059				〓雉子鳴交野の原に雪散てとだちも知ず荒るゝ今日哉	
 zkt-shuigusou-ingai-0060				をしを居の氷の隙に風さえて心の底ぞまづは碎くる	
 zkt-shuigusou-ingai-0061				残りなく暮れぬる空の色がほに一葉曇らぬ冬の山哉	
-zkt-shuigusou-ingai-0062				後の世の心も知らじ網代守冴たる空の月の夜な〓〓	
+zkt-shuigusou-ingai-0062				後の世の心も知らじ網代守冴たる空の月の夜な／＼	
 zkt-shuigusou-ingai-0063				菅原や伏見の宮の跡ふりていくらの冬の雪積るらむ	
 zkt-shuigusou-ingai-0064				淡入りの蘆間の氷けさとちて障り障らず船も通はず	
 zkt-shuigusou-ingai-0065				風さやぐ豬名の笹原雪降て道こそ絕えめ音も絕ぬる	

@@ -44,7 +44,7 @@ zkt-shuigusou-ingai-0493				A夕夕涼飛飛飛の野守この頃や今いくか
 zkt-shuigusou-ingai-0494				蟲のこゑ花におく露物每に秋は野原の外にやはある	
 zkt-shuigusou-ingai-0495				〇立立つ雉の狩場の眞柴枯果てゝ己が在かの陰も隠れず	
 zkt-shuigusou-ingai-0496		海		エ今日ぞ見る春の海邊の名也けり住吉のさと住吉の濱	
-zkt-shuigusou-ingai-0497				三此頃の南の風にうきみるのよる〓〓凉し蘆の屋の里	
+zkt-shuigusou-ingai-0497				三此頃の南の風にうきみるのよる／＼凉し蘆の屋の里	
 zkt-shuigusou-ingai-0498				五さらでだに秋の思は大淀の松をつらしと浦風ぞ吹く	
 zkt-shuigusou-ingai-0499				〓烈しさに鹽屋の煙立ちかねて村雲なびく冬のうら風	
 zkt-shuigusou-ingai-0500		池		五庭もせの花の白雪かぜ吹けば池の鏡ぞ曇りはてぬる	
