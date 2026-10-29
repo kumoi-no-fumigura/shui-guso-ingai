@@ -1,50 +1,50 @@
-zkt-shuigusou-ingai-0451		法門五首追想當時事、何殊昨夜中、自我學心法、萬緣成一空		加大空のむなしき法の心にて月にたなびく雲も殘らず	
-zkt-shuigusou-ingai-0452		廻念發弘願、願此現在身、但受過去報、不結將來因		なつらき身の元の報は如何せむ此世の後の夢は結ばじ	
-zkt-shuigusou-ingai-0453		誓以智惠水永洗煩惱座		xの悟りゆく心の水に洗はれて積りてよもの塵も拂はじ	
-zkt-shuigusou-ingai-0454		山來生老死、三病長相隨、除却無生忍、藥治人間無		xo卅の中に浮世の岸を離れてや知ぬ藥の名をば尋ねむ	
-zkt-shuigusou-ingai-0455		此身何足戀、萬刧頰惱根、此身何足厥、一采虛空座		○大空に漂ふ程もありがほにうかべる座を何か厭はむ	
-zkt-shuigusou-ingai-0456		四季神祇祈年祭		一あら玉の年を祈ると引く胸の跡もひさしき如月の空	
-zkt-shuigusou-ingai-0457				一水無月の月影白き小忌衣うたふさゝ波よるぞ凉しき	
-zkt-shuigusou-ingai-0458		例幣		三御幣の立や五十鈴の河波に山の紅葉も幣や手向くる	
-zkt-shuigusou-ingai-0459		臨時祭		かざしこし櫻も藤も昔にて御手洗川を思ひこそやれ	
-zkt-shuigusou-ingai-0460		四季月		一別初めし雲の上こそ忘られね彌生の月の古き形見に	
-zkt-shuigusou-ingai-0461				な玉河に月の柵かけてけり入る影みせぬ卯の花のころ	
-zkt-shuigusou-ingai-0462				七人も皆情有べき世とぞ見るまた秋の夜に月も澄めり	
-zkt-shuigusou-ingai-0463				人天の河夜渡る月もこほるらむ霜にしもおく鵠のはし	
-zkt-shuigusou-ingai-0464		風		ル梅の花匂ふ春べと吹く風を誰が垣根とか明日も尋む	
-zkt-shuigusou-ingai-0465				〓影茂み結ばぬさきの山の井に夏なき年と松風ぞ吹く	
-zkt-shuigusou-ingai-0466				一里每に人な勸めそ秋の風こぬよ恨みようき身歎けと	
-zkt-shuigusou-ingai-0467				一冬の木の霜も溜らず吹く風に星の光ぞ增りがほなる	
-zkt-shuigusou-ingai-0468		雨		一あさ綠露の玉の緒ぬきもあへず柳の糸に春雨ぞ降る	
-zkt-shuigusou-ingai-0469				水もなきこさかを落る夕立の瀧つせうくる元の谷川	
-zkt-shuigusou-ingai-0470				一軒雨い空き端を打たへに寢られぬ秋のよはぞ難面き	
-zkt-shuigusou-ingai-0471				たさえくらす都は雪も交らぬど山の端白き夕ぐれの雨	
-zkt-shuigusou-ingai-0472		曉		七里とほき八聲の鳥の初聲に花の香おくる春の山かぜ	
-zkt-shuigusou-ingai-0473				色はまた別れぬ軒のあやめ草五月となれる明幕の空	
-zkt-shuigusou-ingai-0474				能誰里の〓らは秋の鐘の音を月より後も眺てぞ聞く	
-zkt-shuigusou-ingai-0475				co旅人の行く方遠く出でぬ也まだ夜は深き雪の景色を	
-zkt-shuigusou-ingai-0476		朝		一庭の雪にかつ散る花もあたらしく櫻に交る朝〓の哉	
-zkt-shuigusou-ingai-0477				ニあかぬ夜の月の名殘の轉寢に衣手白く明くる山の端	
-zkt-shuigusou-ingai-0478				長き夜に妻とふ鹿や休むらむ明くれば獨松風ぞ吹く	
-zkt-shuigusou-ingai-0479				朝ばらけ夜床の霜のいさとさに煙を急ぐ冬の山かづ	
-zkt-shuigusou-ingai-0480		タ		惡ふには暮なばなけと急げ共花におぼめく黃昏の山	
-zkt-shuigusou-ingai-0481				ねうちはぶき寢にゆく空の村島おのが衰は夏の夕ぐれ	
-zkt-shuigusou-ingai-0482				セ詠むとて人も賴めず月も出でじ唯山の端の秋の夕ぢ	
-zkt-shuigusou-ingai-0483				んあはれ又今宵の雪のいかならむ籬の竹の夕ぐれの空	
-zkt-shuigusou-ingai-0484		夜		加睡ろまで優き夢の見えてより春の夜計うき物はなし	
-zkt-shuigusou-ingai-0485				20宿からや鳴く一こゑの時鳥ねぬに停きよはの五月重	
-zkt-shuigusou-ingai-0486				一昔とて戀ふともあはむ物なれや何面影の秋の夜の空	
-zkt-shuigusou-ingai-0487				一徒にをり松たきて深けし夜も猶九重のうちぞ戀しき	
-zkt-shuigusou-ingai-0488				二かかややの色香に誘はれて浮世厭はぬ春の山ぶみ	
-zkt-shuigusou-ingai-0489				涼しさを尋求むる頃だにもさればと山に住人もなし	
-zkt-shuigusou-ingai-0490				〓〓山〓〓〓は山葉〓聲きく鹿の音にぞなきぬる	
-zkt-shuigusou-ingai-0491				加此頃は霜雪だにもおち散らぬ冬の深山の晝の寂しさ	
-zkt-shuigusou-ingai-0492		野		如策つむ野邊の霞に宿かれば衣をうすみ月はもりつヽ	
-zkt-shuigusou-ingai-0493				A夕夕涼飛飛飛の野守この頃や今いくかありて秋の初風	
-zkt-shuigusou-ingai-0494				蟲のこゑ花におく露物每に秋は野原の外にやはある	
-zkt-shuigusou-ingai-0495				〇立立つ雉の狩場の眞柴枯果てゝ己が在かの陰も隠れず	
-zkt-shuigusou-ingai-0496		海		エ今日ぞ見る春の海邊の名也けり住吉のさと住吉の濱	
-zkt-shuigusou-ingai-0497				三此頃の南の風にうきみるのよる／＼凉し蘆の屋の里	
-zkt-shuigusou-ingai-0498				五さらでだに秋の思は大淀の松をつらしと浦風ぞ吹く	
-zkt-shuigusou-ingai-0499				〓烈しさに鹽屋の煙立ちかねて村雲なびく冬のうら風	
-zkt-shuigusou-ingai-0500		池		五庭もせの花の白雪かぜ吹けば池の鏡ぞ曇りはてぬる	
+zkt-shuigusou-ingai-0451	451	法門五首追想當時事、何殊昨夜中、自我學心法、萬緣成一空		加大空のむなしき法の心にて月にたなびく雲も殘らず	
+zkt-shuigusou-ingai-0452	452	廻念發弘願、願此現在身、但受過去報、不結將來因		なつらき身の元の報は如何せむ此世の後の夢は結ばじ	
+zkt-shuigusou-ingai-0453	453	誓以智惠水永洗煩惱座		xの悟りゆく心の水に洗はれて積りてよもの塵も拂はじ	
+zkt-shuigusou-ingai-0454	454	山來生老死、三病長相隨、除却無生忍、藥治人間無		xo卅の中に浮世の岸を離れてや知ぬ藥の名をば尋ねむ	
+zkt-shuigusou-ingai-0455	455	此身何足戀、萬刧頰惱根、此身何足厥、一采虛空座		○大空に漂ふ程もありがほにうかべる座を何か厭はむ	
+zkt-shuigusou-ingai-0456	456	四季神祇祈年祭		一あら玉の年を祈ると引く胸の跡もひさしき如月の空	
+zkt-shuigusou-ingai-0457	457			一水無月の月影白き小忌衣うたふさゝ波よるぞ凉しき	
+zkt-shuigusou-ingai-0458	458	例幣		三御幣の立や五十鈴の河波に山の紅葉も幣や手向くる	
+zkt-shuigusou-ingai-0459	459	臨時祭		かざしこし櫻も藤も昔にて御手洗川を思ひこそやれ	
+zkt-shuigusou-ingai-0460	460	四季月		一別初めし雲の上こそ忘られね彌生の月の古き形見に	
+zkt-shuigusou-ingai-0461	461			な玉河に月の柵かけてけり入る影みせぬ卯の花のころ	
+zkt-shuigusou-ingai-0462	462			七人も皆情有べき世とぞ見るまた秋の夜に月も澄めり	
+zkt-shuigusou-ingai-0463	463			人天の河夜渡る月もこほるらむ霜にしもおく鵠のはし	
+zkt-shuigusou-ingai-0464	464	風		ル梅の花匂ふ春べと吹く風を誰が垣根とか明日も尋む	
+zkt-shuigusou-ingai-0465	465			〓影茂み結ばぬさきの山の井に夏なき年と松風ぞ吹く	
+zkt-shuigusou-ingai-0466	466			一里每に人な勸めそ秋の風こぬよ恨みようき身歎けと	
+zkt-shuigusou-ingai-0467	467			一冬の木の霜も溜らず吹く風に星の光ぞ增りがほなる	
+zkt-shuigusou-ingai-0468	468	雨		一あさ綠露の玉の緒ぬきもあへず柳の糸に春雨ぞ降る	
+zkt-shuigusou-ingai-0469	469			水もなきこさかを落る夕立の瀧つせうくる元の谷川	
+zkt-shuigusou-ingai-0470	470			一軒雨い空き端を打たへに寢られぬ秋のよはぞ難面き	
+zkt-shuigusou-ingai-0471	471			たさえくらす都は雪も交らぬど山の端白き夕ぐれの雨	
+zkt-shuigusou-ingai-0472	472	曉		七里とほき八聲の鳥の初聲に花の香おくる春の山かぜ	
+zkt-shuigusou-ingai-0473	473			色はまた別れぬ軒のあやめ草五月となれる明幕の空	
+zkt-shuigusou-ingai-0474	474			能誰里の〓らは秋の鐘の音を月より後も眺てぞ聞く	
+zkt-shuigusou-ingai-0475	475			co旅人の行く方遠く出でぬ也まだ夜は深き雪の景色を	
+zkt-shuigusou-ingai-0476	476	朝		一庭の雪にかつ散る花もあたらしく櫻に交る朝〓の哉	
+zkt-shuigusou-ingai-0477	477			ニあかぬ夜の月の名殘の轉寢に衣手白く明くる山の端	
+zkt-shuigusou-ingai-0478	478			長き夜に妻とふ鹿や休むらむ明くれば獨松風ぞ吹く	
+zkt-shuigusou-ingai-0479	479			朝ばらけ夜床の霜のいさとさに煙を急ぐ冬の山かづ	
+zkt-shuigusou-ingai-0480	480	タ		惡ふには暮なばなけと急げ共花におぼめく黃昏の山	
+zkt-shuigusou-ingai-0481	481			ねうちはぶき寢にゆく空の村島おのが衰は夏の夕ぐれ	
+zkt-shuigusou-ingai-0482	482			セ詠むとて人も賴めず月も出でじ唯山の端の秋の夕ぢ	
+zkt-shuigusou-ingai-0483	483			んあはれ又今宵の雪のいかならむ籬の竹の夕ぐれの空	
+zkt-shuigusou-ingai-0484	484	夜		加睡ろまで優き夢の見えてより春の夜計うき物はなし	
+zkt-shuigusou-ingai-0485	485			20宿からや鳴く一こゑの時鳥ねぬに停きよはの五月重	
+zkt-shuigusou-ingai-0486	486			一昔とて戀ふともあはむ物なれや何面影の秋の夜の空	
+zkt-shuigusou-ingai-0487	487			一徒にをり松たきて深けし夜も猶九重のうちぞ戀しき	
+zkt-shuigusou-ingai-0488	488			二かかややの色香に誘はれて浮世厭はぬ春の山ぶみ	
+zkt-shuigusou-ingai-0489	489			涼しさを尋求むる頃だにもさればと山に住人もなし	
+zkt-shuigusou-ingai-0490	490			〓〓山〓〓〓は山葉〓聲きく鹿の音にぞなきぬる	
+zkt-shuigusou-ingai-0491	491			加此頃は霜雪だにもおち散らぬ冬の深山の晝の寂しさ	
+zkt-shuigusou-ingai-0492	492	野		如策つむ野邊の霞に宿かれば衣をうすみ月はもりつヽ	
+zkt-shuigusou-ingai-0493	493			A夕夕涼飛飛飛の野守この頃や今いくかありて秋の初風	
+zkt-shuigusou-ingai-0494	494			蟲のこゑ花におく露物每に秋は野原の外にやはある	
+zkt-shuigusou-ingai-0495	495			〇立立つ雉の狩場の眞柴枯果てゝ己が在かの陰も隠れず	
+zkt-shuigusou-ingai-0496	496	海		エ今日ぞ見る春の海邊の名也けり住吉のさと住吉の濱	
+zkt-shuigusou-ingai-0497	497			三此頃の南の風にうきみるのよる／＼凉し蘆の屋の里	
+zkt-shuigusou-ingai-0498	498			五さらでだに秋の思は大淀の松をつらしと浦風ぞ吹く	
+zkt-shuigusou-ingai-0499	499			〓烈しさに鹽屋の煙立ちかねて村雲なびく冬のうら風	
+zkt-shuigusou-ingai-0500	500	池		五庭もせの花の白雪かぜ吹けば池の鏡ぞ曇りはてぬる	

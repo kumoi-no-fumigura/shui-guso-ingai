@@ -1,50 +1,50 @@
-zkt-shuigusou-ingai-0101		第第二第三第四第五追巡春三十首		10春くればいとゞ光を添ふる哉雲居の庭も星の宿りも	
-zkt-shuigusou-ingai-0102				加我が宿に今日の子日の松植て風まちつけむ末の夏陰	
-zkt-shuigusou-ingai-0103				なさてもなほ尊ねてとはむ霞たつ都のたつみ山の遠方	
-zkt-shuigusou-ingai-0104				xoとひこかし一夜二夜のへだてぞも鶯きゐる宿の吳竹	
-zkt-shuigusou-ingai-0105				50幾年をつめども更に變らぬは御垣が原の若菜也けり	
-zkt-shuigusou-ingai-0106				〓雪消ぬ木の間の日影薄けれど中々花とまづ見ゆる哉	
-zkt-shuigusou-ingai-0107				一吹迷ふ梅の匂に袖占てをられぬ水も今日はわかれヤ	
-zkt-shuigusou-ingai-0108				ここままずる第おれとや靑柳の經の糸をまづは染らむ	
-zkt-shuigusou-ingai-0109				さもあらぬ草葉も春は見別けり早厥あさる山の便に	
-zkt-shuigusou-ingai-0110				N移り敢ぬ時雨にだにも袖濡す深山の里の今日の春雨	
-zkt-shuigusou-ingai-0111				一櫻花心に散らぬ色ながらいく夏春をうらみきぬらむ	
-zkt-shuigusou-ingai-0112				荒にけるさはべの駒の景色かは春の淺芽のめぐむ故郷	
-zkt-shuigusou-ingai-0113				←かき列ねこし玉章の歸る雁わが物からに誰忍ぶらむ	
-zkt-shuigusou-ingai-0114				んこれまでも心々はわかれけり苗代水も己がひき／＼	
-zkt-shuigusou-ingai-0115				〓頼めおきし人まつ風のさよすみて思に通ふ喚子鳥哉	
-zkt-shuigusou-ingai-0116				c桃の花ながるゝ色をしるべとて波にしたがふ春の盃	
-zkt-shuigusou-ingai-0117				一頼むかな咲ける藤波春をへて南の岸の日かげ照さば	
-zkt-shuigusou-ingai-0118				三思ふどち春の形見に並つむ野原の圓居雨ぞそぼふる	
-zkt-shuigusou-ingai-0119				王いつしかも都の人に言づてむ井手の山吹いまぞ盛と	
-zkt-shuigusou-ingai-0120				思ふこと誰にのこして詠めおかむ心にあまる春の曙	
-zkt-shuigusou-ingai-0121				きさすなく交野の眞柴宿かりて霞になるゝ春の夕幕	
-zkt-shuigusou-ingai-0122				に住作びてあがる雲雀の著き成まだ陰もなき春の若草	
-zkt-shuigusou-ingai-0123				七澤海や下葉に交るかきつばた花踏分けてあさる白鷺	
-zkt-shuigusou-ingai-0124				〓今宵ねて暫しも馴れむ常磐山いは躑躅咲く米の通路	
-zkt-shuigusou-ingai-0125				幾度か我が君が世にあらためむ影ものどけき玉椿哉	
-zkt-shuigusou-ingai-0126				。佐保姫の心の色に見ゆるかな花も霞もはるの山ざと	
-zkt-shuigusou-ingai-0127				一足引の山梨の花散敷きて身を隱すべき道や絕えぬる	
-zkt-shuigusou-ingai-0128				三年をへて馴れけむ宮のつばくらめ羨み絕て後も幾春	
-zkt-shuigusou-ingai-0129				三みくりはふ汀の眞菰うちそよぎ蛙なくなり雨の幕方	
-zkt-shuigusou-ingai-0130				〓ははももはは随ふ色つきて風さへいぬる春の暮がた	
-zkt-shuigusou-ingai-0131		夏二十首		「夏友たつは霞の關なれや春の色をもへだてつるかな	
-zkt-shuigusou-ingai-0132				起山里は卵花がきね雪をれて杉ふく庵ぞ靑葉なりける	
-zkt-shuigusou-ingai-0133				に雲の上の千代の御影に夢草神の惠みをかけてまつ哉	
-zkt-shuigusou-ingai-0134				〓〓水水く森の木蔭に日はくれぬ山郭公此湖過ぐすな	
-zkt-shuigusou-ingai-0135				〓今日といへば蓬の若葉刈添て宮も養屋も萬瀨葺く也	
-zkt-shuigusou-ingai-0136				o早早とる田子の小笠の騒ぐ哉打散る雨や降増るらむ	
-zkt-shuigusou-ingai-0137				「あくがれぬ花たちばなの匂故月にもあらぬ轉寝の空	
-zkt-shuigusou-ingai-0138				雲せきて三笠越行く五月雨に眺めは絶ぬ人も通はず	
-zkt-shuigusou-ingai-0139				疑ひし心の秋のかぜたえば益とびかふ空につげこせ	
-zkt-shuigusou-ingai-0140				東屋のさせる戶ざしも夏の夜は明るを叩く水鷄也見	
-zkt-shuigusou-ingai-0141				照射するは山しげ山露深し亂れやしぬる信夫もぢ摺	
-zkt-shuigusou-ingai-0142				加山里は蟬の諸聲秋かけてそともの桐の下葉おつなり	
-zkt-shuigusou-ingai-0143				眺めやる麓の庵のかやり火の煙もすゞしおろす山風	
-zkt-shuigusou-ingai-0144				A移移の身にしむばかり契とて扇の風のゆくへ尋ねむ	
-zkt-shuigusou-ingai-0145				加かだに置露さへ玉と磨かれて植しかひある常夏の花	
-zkt-shuigusou-ingai-0146				〇2紫紫花の萎れて後に咲く花の唯一えだに秋の風まて	
-zkt-shuigusou-ingai-0147				五月さゆる池の蓮に玉越えて此世ながらの光をぞます	
-zkt-shuigusou-ingai-0148				三夏年ら秋風立たぬ氷室山そこには冬を殘すと思へど	
-zkt-shuigusou-ingai-0149				三待たれずよ秋の初風幾日とも掬ぶ泉に水馴そなれて	
-zkt-shuigusou-ingai-0150				ほまだきより麻の立枝に秋かけて袂すゞしき夏祓へ哉	
+zkt-shuigusou-ingai-0101	101	第第二第三第四第五追巡春三十首		10春くればいとゞ光を添ふる哉雲居の庭も星の宿りも	
+zkt-shuigusou-ingai-0102	102			加我が宿に今日の子日の松植て風まちつけむ末の夏陰	
+zkt-shuigusou-ingai-0103	103			なさてもなほ尊ねてとはむ霞たつ都のたつみ山の遠方	
+zkt-shuigusou-ingai-0104	104			xoとひこかし一夜二夜のへだてぞも鶯きゐる宿の吳竹	
+zkt-shuigusou-ingai-0105	105			50幾年をつめども更に變らぬは御垣が原の若菜也けり	
+zkt-shuigusou-ingai-0106	106			〓雪消ぬ木の間の日影薄けれど中々花とまづ見ゆる哉	
+zkt-shuigusou-ingai-0107	107			一吹迷ふ梅の匂に袖占てをられぬ水も今日はわかれヤ	
+zkt-shuigusou-ingai-0108	108			ここままずる第おれとや靑柳の經の糸をまづは染らむ	
+zkt-shuigusou-ingai-0109	109			さもあらぬ草葉も春は見別けり早厥あさる山の便に	
+zkt-shuigusou-ingai-0110	110			N移り敢ぬ時雨にだにも袖濡す深山の里の今日の春雨	
+zkt-shuigusou-ingai-0111	111			一櫻花心に散らぬ色ながらいく夏春をうらみきぬらむ	
+zkt-shuigusou-ingai-0112	112			荒にけるさはべの駒の景色かは春の淺芽のめぐむ故郷	
+zkt-shuigusou-ingai-0113	113			←かき列ねこし玉章の歸る雁わが物からに誰忍ぶらむ	
+zkt-shuigusou-ingai-0114	114			んこれまでも心々はわかれけり苗代水も己がひき／＼	
+zkt-shuigusou-ingai-0115	115			〓頼めおきし人まつ風のさよすみて思に通ふ喚子鳥哉	
+zkt-shuigusou-ingai-0116	116			c桃の花ながるゝ色をしるべとて波にしたがふ春の盃	
+zkt-shuigusou-ingai-0117	117			一頼むかな咲ける藤波春をへて南の岸の日かげ照さば	
+zkt-shuigusou-ingai-0118	118			三思ふどち春の形見に並つむ野原の圓居雨ぞそぼふる	
+zkt-shuigusou-ingai-0119	119			王いつしかも都の人に言づてむ井手の山吹いまぞ盛と	
+zkt-shuigusou-ingai-0120	120			思ふこと誰にのこして詠めおかむ心にあまる春の曙	
+zkt-shuigusou-ingai-0121	121			きさすなく交野の眞柴宿かりて霞になるゝ春の夕幕	
+zkt-shuigusou-ingai-0122	122			に住作びてあがる雲雀の著き成まだ陰もなき春の若草	
+zkt-shuigusou-ingai-0123	123			七澤海や下葉に交るかきつばた花踏分けてあさる白鷺	
+zkt-shuigusou-ingai-0124	124			〓今宵ねて暫しも馴れむ常磐山いは躑躅咲く米の通路	
+zkt-shuigusou-ingai-0125	125			幾度か我が君が世にあらためむ影ものどけき玉椿哉	
+zkt-shuigusou-ingai-0126	126			。佐保姫の心の色に見ゆるかな花も霞もはるの山ざと	
+zkt-shuigusou-ingai-0127	127			一足引の山梨の花散敷きて身を隱すべき道や絕えぬる	
+zkt-shuigusou-ingai-0128	128			三年をへて馴れけむ宮のつばくらめ羨み絕て後も幾春	
+zkt-shuigusou-ingai-0129	129			三みくりはふ汀の眞菰うちそよぎ蛙なくなり雨の幕方	
+zkt-shuigusou-ingai-0130	130			〓ははももはは随ふ色つきて風さへいぬる春の暮がた	
+zkt-shuigusou-ingai-0131	131	夏二十首		「夏友たつは霞の關なれや春の色をもへだてつるかな	
+zkt-shuigusou-ingai-0132	132			起山里は卵花がきね雪をれて杉ふく庵ぞ靑葉なりける	
+zkt-shuigusou-ingai-0133	133			に雲の上の千代の御影に夢草神の惠みをかけてまつ哉	
+zkt-shuigusou-ingai-0134	134			〓〓水水く森の木蔭に日はくれぬ山郭公此湖過ぐすな	
+zkt-shuigusou-ingai-0135	135			〓今日といへば蓬の若葉刈添て宮も養屋も萬瀨葺く也	
+zkt-shuigusou-ingai-0136	136			o早早とる田子の小笠の騒ぐ哉打散る雨や降増るらむ	
+zkt-shuigusou-ingai-0137	137			「あくがれぬ花たちばなの匂故月にもあらぬ轉寝の空	
+zkt-shuigusou-ingai-0138	138			雲せきて三笠越行く五月雨に眺めは絶ぬ人も通はず	
+zkt-shuigusou-ingai-0139	139			疑ひし心の秋のかぜたえば益とびかふ空につげこせ	
+zkt-shuigusou-ingai-0140	140			東屋のさせる戶ざしも夏の夜は明るを叩く水鷄也見	
+zkt-shuigusou-ingai-0141	141			照射するは山しげ山露深し亂れやしぬる信夫もぢ摺	
+zkt-shuigusou-ingai-0142	142			加山里は蟬の諸聲秋かけてそともの桐の下葉おつなり	
+zkt-shuigusou-ingai-0143	143			眺めやる麓の庵のかやり火の煙もすゞしおろす山風	
+zkt-shuigusou-ingai-0144	144			A移移の身にしむばかり契とて扇の風のゆくへ尋ねむ	
+zkt-shuigusou-ingai-0145	145			加かだに置露さへ玉と磨かれて植しかひある常夏の花	
+zkt-shuigusou-ingai-0146	146			〇2紫紫花の萎れて後に咲く花の唯一えだに秋の風まて	
+zkt-shuigusou-ingai-0147	147			五月さゆる池の蓮に玉越えて此世ながらの光をぞます	
+zkt-shuigusou-ingai-0148	148			三夏年ら秋風立たぬ氷室山そこには冬を殘すと思へど	
+zkt-shuigusou-ingai-0149	149			三待たれずよ秋の初風幾日とも掬ぶ泉に水馴そなれて	
+zkt-shuigusou-ingai-0150	150			ほまだきより麻の立枝に秋かけて袂すゞしき夏祓へ哉	

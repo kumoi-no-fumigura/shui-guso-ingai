@@ -1,50 +1,50 @@
-zkt-shuigusou-ingai-0151		秋三十首		秋きぬと露や梢に波すらむ風よりさきに袖の姿るゝ	
-zkt-shuigusou-ingai-0152				な選莫たなばたつめになりみばや年に一夜も秋の初風	
-zkt-shuigusou-ingai-0153				十色に出でむ心も知ず秋萩の露につゆおく宮城野の原	
-zkt-shuigusou-ingai-0154				極子のいはで物思秋の夜は女郎花にや色をかこたむ	
-zkt-shuigusou-ingai-0155				五位皆人の心にしのぶ秋の野をほに出でゝ靡く花薄かな	
-zkt-shuigusou-ingai-0156				刈りのみみ分來し故郷は逢はでもいなむ心みえねば	
-zkt-shuigusou-ingai-0157				"吹き迷ふ〓の上風結ぼゝれ秋かとつぐる暮の空かな	
-zkt-shuigusou-ingai-0158				ごぬざおきし形見も知らず藤袴嵐の風の色にまかせて	
-zkt-shuigusou-ingai-0159				秋風にたへぬ草葉はうらがれて鶉なく也小野の篠原	
-zkt-shuigusou-ingai-0160				木の葉吹く風の心になびきゝて枕にかはる日暮の聲	
-zkt-shuigusou-ingai-0161				秋の田の仄に露の色わきてまだき悲しき夕月夜かな	
-zkt-shuigusou-ingai-0162				本今はとて鴨も立つなり秋の夜の思の底に露は殘りて	
-zkt-shuigusou-ingai-0163				其真はふ生田の奧の秋風にやがて色づく袖の上かな	
-zkt-shuigusou-ingai-0164				ぶしのばれぬ枕の下の淚かな尾上の鹿の聲きゝしより	
-zkt-shuigusou-ingai-0165				〓東雲の別の露を契りおきて形見とヾめぬ朝がほの花	
-zkt-shuigusou-ingai-0166				c初初ののききゝそむる此の頃の空ならはする朝霧の色	
-zkt-shuigusou-ingai-0167				一今宵たれ野邊の白露まづ分けて下葉に月の影額ふ意	
-zkt-shuigusou-ingai-0168				〓深山路や峯にも尾にも霧立て待人もなし訪人もなし	
-zkt-shuigusou-ingai-0169				〓淡汐やく海士の苦屋に秋深けて衣うつなり須磨の曙	
-zkt-shuigusou-ingai-0170				三笠山くもゐを出る影そへて今日引分くる望月の胸	
-zkt-shuigusou-ingai-0171				秋秋月月の月千代を一夜に詠むとも偖とや明る空を惜まむ	
-zkt-shuigusou-ingai-0172				〓ををねね〓おる蟲の急ぐかな草の袂に露やさゆらむ	
-zkt-shuigusou-ingai-0173				一別れなむ行方やいかに養秋は寢ざめの友とたのみて	
-zkt-shuigusou-ingai-0174				篇部山ふりゆく跡を哀とや野邊の鈴蟲露に鳴くらむ	
-zkt-shuigusou-ingai-0175				〓〓田山すそのゝ嵐露ふけばやがて亂るゝ松蟲のこゑ	
-zkt-shuigusou-ingai-0176				ひいなづまの光も今は弱りけり田面の風の聲は變らで	
-zkt-shuigusou-ingai-0177				〓打そゝぐ秋の急雨ひやかにて風にさきだつ下の浮雲	
-zkt-shuigusou-ingai-0178				三を花ふ心もつきの白菊のまだ露置ぬ色を見しより	
-zkt-shuigusou-ingai-0179				一年年へへ由なき秋の暮にみて紅葉の色の恨めしき哉	
-zkt-shuigusou-ingai-0180				改めて又咲くにやは惜むべき恨みなれたる秋の別を	
-zkt-shuigusou-ingai-0181		冬二十首		神無月同木葉の散る音も今日しも名殘なき心ちして	
-zkt-shuigusou-ingai-0182				か時の間にしぐるゝ空の雲過て又誰が里に袖滿すらむ	
-zkt-shuigusou-ingai-0183				ひよをへては野べの草葉に置霜の消れば色の枯增る哉	
-zkt-shuigusou-ingai-0184				以嵐だにかごとがましき深山邊に筱ふるなり嶺の椎榮	
-zkt-shuigusou-ingai-0185				降初めて下葉おもりし松が枝を梢も堪へや積る白雪	
-zkt-shuigusou-ingai-0186				萎れ葦のほずゑの色に秋過て雪ぞとヾまる遠近の岸	
-zkt-shuigusou-ingai-0187				一友哀ふ千鳥なくなり領布ふりし松浦の山の跡の湖風	
-zkt-shuigusou-ingai-0188				〓傳ひこし筧の〓水氷柱ゐて袖にぞ出づる冬の夜の月	
-zkt-shuigusou-ingai-0189				五下の思上毛の氷くたくらし浮寢の明のよはに鳴く聲	
-zkt-shuigusou-ingai-0190				mいかゞする枕も床も氷にて月もり明す瀨々の解代木	
-zkt-shuigusou-ingai-0191				蘆たづの聲ぞ雲居にきこゆなる玉の臺は霜深くして	
-zkt-shuigusou-ingai-0192				か深き夜に少女の姿かぜとぢて雲路にみてる萬代の聲	
-zkt-shuigusou-ingai-0193				散る雪にみ〓とはすみて少女子の袖の色增す百敷の庭	
-zkt-shuigusou-ingai-0194				〓〓子子のつ行手に人の栞る哉狩場の小野の柴の立枝を	
-zkt-shuigusou-ingai-0195				幾千代と限もしらぬ雲の上に遙かにすめる朝倉の聲	
-zkt-shuigusou-ingai-0196				°炭竈の煙の下に積むものは寒きをねがふ歎き也けり	
-zkt-shuigusou-ingai-0197				。年くれて佛のみなを聞く時は積れる罪も殘あらじを	
-zkt-shuigusou-ingai-0198				coうち匂ふふせごの下の埋火に春の心やまづ通ふらむ	
-zkt-shuigusou-ingai-0199				。四每に千代の春とやいはふらむ松きる賤の己が樣々	
-zkt-shuigusou-ingai-0200				。春秋やことぞともなきすさびにてさも徒に積る年哉	
+zkt-shuigusou-ingai-0151	151	秋三十首		秋きぬと露や梢に波すらむ風よりさきに袖の姿るゝ	
+zkt-shuigusou-ingai-0152	152			な選莫たなばたつめになりみばや年に一夜も秋の初風	
+zkt-shuigusou-ingai-0153	153			十色に出でむ心も知ず秋萩の露につゆおく宮城野の原	
+zkt-shuigusou-ingai-0154	154			極子のいはで物思秋の夜は女郎花にや色をかこたむ	
+zkt-shuigusou-ingai-0155	155			五位皆人の心にしのぶ秋の野をほに出でゝ靡く花薄かな	
+zkt-shuigusou-ingai-0156	156			刈りのみみ分來し故郷は逢はでもいなむ心みえねば	
+zkt-shuigusou-ingai-0157	157			"吹き迷ふ〓の上風結ぼゝれ秋かとつぐる暮の空かな	
+zkt-shuigusou-ingai-0158	158			ごぬざおきし形見も知らず藤袴嵐の風の色にまかせて	
+zkt-shuigusou-ingai-0159	159			秋風にたへぬ草葉はうらがれて鶉なく也小野の篠原	
+zkt-shuigusou-ingai-0160	160			木の葉吹く風の心になびきゝて枕にかはる日暮の聲	
+zkt-shuigusou-ingai-0161	161			秋の田の仄に露の色わきてまだき悲しき夕月夜かな	
+zkt-shuigusou-ingai-0162	162			本今はとて鴨も立つなり秋の夜の思の底に露は殘りて	
+zkt-shuigusou-ingai-0163	163			其真はふ生田の奧の秋風にやがて色づく袖の上かな	
+zkt-shuigusou-ingai-0164	164			ぶしのばれぬ枕の下の淚かな尾上の鹿の聲きゝしより	
+zkt-shuigusou-ingai-0165	165			〓東雲の別の露を契りおきて形見とヾめぬ朝がほの花	
+zkt-shuigusou-ingai-0166	166			c初初ののききゝそむる此の頃の空ならはする朝霧の色	
+zkt-shuigusou-ingai-0167	167			一今宵たれ野邊の白露まづ分けて下葉に月の影額ふ意	
+zkt-shuigusou-ingai-0168	168			〓深山路や峯にも尾にも霧立て待人もなし訪人もなし	
+zkt-shuigusou-ingai-0169	169			〓淡汐やく海士の苦屋に秋深けて衣うつなり須磨の曙	
+zkt-shuigusou-ingai-0170	170			三笠山くもゐを出る影そへて今日引分くる望月の胸	
+zkt-shuigusou-ingai-0171	171			秋秋月月の月千代を一夜に詠むとも偖とや明る空を惜まむ	
+zkt-shuigusou-ingai-0172	172			〓ををねね〓おる蟲の急ぐかな草の袂に露やさゆらむ	
+zkt-shuigusou-ingai-0173	173			一別れなむ行方やいかに養秋は寢ざめの友とたのみて	
+zkt-shuigusou-ingai-0174	174			篇部山ふりゆく跡を哀とや野邊の鈴蟲露に鳴くらむ	
+zkt-shuigusou-ingai-0175	175			〓〓田山すそのゝ嵐露ふけばやがて亂るゝ松蟲のこゑ	
+zkt-shuigusou-ingai-0176	176			ひいなづまの光も今は弱りけり田面の風の聲は變らで	
+zkt-shuigusou-ingai-0177	177			〓打そゝぐ秋の急雨ひやかにて風にさきだつ下の浮雲	
+zkt-shuigusou-ingai-0178	178			三を花ふ心もつきの白菊のまだ露置ぬ色を見しより	
+zkt-shuigusou-ingai-0179	179			一年年へへ由なき秋の暮にみて紅葉の色の恨めしき哉	
+zkt-shuigusou-ingai-0180	180			改めて又咲くにやは惜むべき恨みなれたる秋の別を	
+zkt-shuigusou-ingai-0181	181	冬二十首		神無月同木葉の散る音も今日しも名殘なき心ちして	
+zkt-shuigusou-ingai-0182	182			か時の間にしぐるゝ空の雲過て又誰が里に袖滿すらむ	
+zkt-shuigusou-ingai-0183	183			ひよをへては野べの草葉に置霜の消れば色の枯增る哉	
+zkt-shuigusou-ingai-0184	184			以嵐だにかごとがましき深山邊に筱ふるなり嶺の椎榮	
+zkt-shuigusou-ingai-0185	185			降初めて下葉おもりし松が枝を梢も堪へや積る白雪	
+zkt-shuigusou-ingai-0186	186			萎れ葦のほずゑの色に秋過て雪ぞとヾまる遠近の岸	
+zkt-shuigusou-ingai-0187	187			一友哀ふ千鳥なくなり領布ふりし松浦の山の跡の湖風	
+zkt-shuigusou-ingai-0188	188			〓傳ひこし筧の〓水氷柱ゐて袖にぞ出づる冬の夜の月	
+zkt-shuigusou-ingai-0189	189			五下の思上毛の氷くたくらし浮寢の明のよはに鳴く聲	
+zkt-shuigusou-ingai-0190	190			mいかゞする枕も床も氷にて月もり明す瀨々の解代木	
+zkt-shuigusou-ingai-0191	191			蘆たづの聲ぞ雲居にきこゆなる玉の臺は霜深くして	
+zkt-shuigusou-ingai-0192	192			か深き夜に少女の姿かぜとぢて雲路にみてる萬代の聲	
+zkt-shuigusou-ingai-0193	193			散る雪にみ〓とはすみて少女子の袖の色增す百敷の庭	
+zkt-shuigusou-ingai-0194	194			〓〓子子のつ行手に人の栞る哉狩場の小野の柴の立枝を	
+zkt-shuigusou-ingai-0195	195			幾千代と限もしらぬ雲の上に遙かにすめる朝倉の聲	
+zkt-shuigusou-ingai-0196	196			°炭竈の煙の下に積むものは寒きをねがふ歎き也けり	
+zkt-shuigusou-ingai-0197	197			。年くれて佛のみなを聞く時は積れる罪も殘あらじを	
+zkt-shuigusou-ingai-0198	198			coうち匂ふふせごの下の埋火に春の心やまづ通ふらむ	
+zkt-shuigusou-ingai-0199	199			。四每に千代の春とやいはふらむ松きる賤の己が樣々	
+zkt-shuigusou-ingai-0200	200			。春秋やことぞともなきすさびにてさも徒に積る年哉	
