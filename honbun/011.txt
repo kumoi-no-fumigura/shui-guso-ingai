@@ -9,7 +9,7 @@ zkt-shuigusou-ingai-0508	508	田		櫻色の移るも知らぬ山賤も田面の�
 zkt-shuigusou-ingai-0509	509			小山田に茂る五月の浮草は我が心より種や蒔きけむ	
 zkt-shuigusou-ingai-0510	510			秋の田を照す稻妻よそへても見れば程なし忘形見に	
 zkt-shuigusou-ingai-0511	511			なあぜ傳ひもりくる水も凍りゐて刈田寂しき冬の山陰	
-zkt-shuigusou-ingai-0512	512	鳥		百千鳥囀る春もふりはてヽ我宿ならぬ花をやは見る	
+zkt-shuigusou-ingai-0512	512	鳥		百千鳥囀る春もふりはてゝ我宿ならぬ花をやは見る	
 zkt-shuigusou-ingai-0513	513			〓〓ををににつつ事もなし時鳥われ世中にとのみ憂へて	
 zkt-shuigusou-ingai-0514	514			初雁もまだ有明とつたふとも誰かは月の情かくべき	
 zkt-shuigusou-ingai-0515	515			〓〓千鳥とまらば雪の跡もなし鳴てもいはむ方は渚に	
@@ -22,7 +22,7 @@ zkt-shuigusou-ingai-0521	521			メニ言とはむ聲も惜まぬ時鳥なにか�
 zkt-shuigusou-ingai-0522	522			ヒ〓〓〓〓〓〓て下葉殘さず置露にあはでの森の秋や侮しき	
 zkt-shuigusou-ingai-0523	523			べん鳴く鹿もよその紅葉も尋ねこず常磐の森の雪の夕暮	
 zkt-shuigusou-ingai-0524	524	草		〓〓春日野の雪の下草おのれのみ春の外にや結び置らむ	
-zkt-shuigusou-ingai-0525	525			%も分す岩垣沼に引捨てヽ五月待べき草葉ならねば	
+zkt-shuigusou-ingai-0525	525			%も分す岩垣沼に引捨てゝ五月待べき草葉ならねば	
 zkt-shuigusou-ingai-0526	526			一時知らぬ宿ともさらばなりはてず何夕暮の〓の上風	
 zkt-shuigusou-ingai-0527	527			我が宿は人めも草も草花をかれてもたてる心長さよ	
 zkt-shuigusou-ingai-0528	528	花		弘花は春春は櫻の故なれば此世の色のたぐひやはある	

@@ -3,7 +3,7 @@ zkt-shuigusou-ingai-0452	452	廻念發弘願、願此現在身、但受過去報
 zkt-shuigusou-ingai-0453	453	誓以智惠水永洗煩惱座		xの悟りゆく心の水に洗はれて積りてよもの塵も拂はじ	
 zkt-shuigusou-ingai-0454	454	山來生老死、三病長相隨、除却無生忍、藥治人間無		xo卅の中に浮世の岸を離れてや知ぬ藥の名をば尋ねむ	
 zkt-shuigusou-ingai-0455	455	此身何足戀、萬刧頰惱根、此身何足厥、一采虛空座		○大空に漂ふ程もありがほにうかべる座を何か厭はむ	
-zkt-shuigusou-ingai-0456	456	四季神祇祈年祭		一あら玉の年を祈ると引く胸の跡もひさしき如月の空	
+zkt-shuigusou-ingai-0456	456	四季神祇祈年祭		一あら玉の年を祈ると引く駒の跡もひさしき如月の空	
 zkt-shuigusou-ingai-0457	457			一水無月の月影白き小忌衣うたふさゝ波よるぞ凉しき	
 zkt-shuigusou-ingai-0458	458	例幣		三御幣の立や五十鈴の河波に山の紅葉も幣や手向くる	
 zkt-shuigusou-ingai-0459	459	臨時祭		かざしこし櫻も藤も昔にて御手洗川を思ひこそやれ	
@@ -34,7 +34,7 @@ zkt-shuigusou-ingai-0483	483			んあはれ又今宵の雪のいかならむ籬�
 zkt-shuigusou-ingai-0484	484	夜		加睡ろまで優き夢の見えてより春の夜計うき物はなし	
 zkt-shuigusou-ingai-0485	485			20宿からや鳴く一こゑの時鳥ねぬに停きよはの五月重	
 zkt-shuigusou-ingai-0486	486			一昔とて戀ふともあはむ物なれや何面影の秋の夜の空	
-zkt-shuigusou-ingai-0487	487			一徒にをり松たきて深けし夜も猶九重のうちぞ戀しき	
+zkt-shuigusou-ingai-0487	487			一徒にをり松たきて更けし夜も猶九重のうちぞ戀しき	
 zkt-shuigusou-ingai-0488	488			二かかややの色香に誘はれて浮世厭はぬ春の山ぶみ	
 zkt-shuigusou-ingai-0489	489			涼しさを尋求むる頃だにもさればと山に住人もなし	
 zkt-shuigusou-ingai-0490	490			〓〓山〓〓〓は山葉〓聲きく鹿の音にぞなきぬる	
